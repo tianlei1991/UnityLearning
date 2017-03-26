@@ -1,0 +1,17 @@
+/Users/tl/GitSource/Small Game Self/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/tl/GitSource/Small Game Self/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/tl/GitSource/Small Game Self/obj/Debug/Assembly-CSharp.dll
+/Users/tl/GitSource/Small Game Self/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/tl/GitSource/Small Game Self/Temp/bin/Debug/UnityEngine.dll
+/Users/tl/GitSource/Small Game Self/Temp/bin/Debug/UnityEditor.dll
+/Users/tl/GitSource/Small Game Self/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/tl/GitSource/Small Game Self/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/tl/GitSource/Small Game Self/Temp/bin/Debug/Mono.Cecil.dll
+/Users/tl/GitSource/Small Game Self/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/tl/GitSource/Small Game Self/Temp/bin/Debug/Unity.DataContract.dll
+/Users/tl/GitSource/Small Game Self/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/tl/GitSource/Small Game Self/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/tl/GitSource/Small Game Self/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/tl/GitSource/Small Game Self/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/tl/GitSource/Small Game Self/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/tl/GitSource/Small Game Self/Temp/bin/Debug/Mono.Cecil.Mdb.dll
